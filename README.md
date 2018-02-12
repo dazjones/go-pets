@@ -1,2 +1,2 @@
-# go-tournament
-A tournament generator built in Go
+# go-pets
+Simple API for testing. Written in Go.
