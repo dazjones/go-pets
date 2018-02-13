@@ -2,7 +2,7 @@
 Simple API for testing. Written in Go.
 
 ## Usage
-``go run main.go```
+```go run main.go```
 
 ## Get pets
 ```curl http://127.0.0.1:8080/pets```
